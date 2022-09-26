@@ -3,7 +3,7 @@ A simple webpage to play the Guess My Number Game.
 \
 The game is as following:
 - The user inputs a number between 1 and 20 into the input field if the number is larger or smaller than the secret number a warning message is displayed
-- The Score is the game is displayed and each time you make a wrong guess the score decreases by 1
+- The Score of the game is displayed and each time you make a wrong guess the score decreases by 1
 - You can replay the Game using the Again Button
 - A record of the High Score is kept between all the games that the user have played
 
